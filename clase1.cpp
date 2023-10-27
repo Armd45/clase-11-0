@@ -1,6 +1,7 @@
 /* Ingresar dos números distintos. Imprimir la serie de números existentes entre ambos. Imprime a demás,
 la ubicación en memoria de dicha serie de números.*/
 #include<iostream>
+#include<stdlib.h>
 using namespace std;
 
 bool ingresar(int n, int* dos, int ax);
